@@ -31,6 +31,10 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 ### <i class="fa fa-fw fa-camera-retro" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335">News</font>
 
+* **June 2025:** Glad to attend the 2025 NICE Conference & Expo, ad the NIST RAMPS workshop.
+  
+* **May 2025:** I’m honored to have been nominated to present my research at the Computing Community Consortium (CCC)’s Computing Futures Symposium.
+
 * **November 2024:** I was invited to serve as a Panelist at NSF.
   
 * **September 2024:** I’m pleased to announce that our grant, for which I serve as the PI, "Multidisciplinary Pathways to Cybersecurity Professionals," has been awarded by NIST.
