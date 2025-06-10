@@ -3,6 +3,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* **June 2025:** Glad to attend the NICE Conference &Expo, ad the NIST RAMPS workshop.
+* **May 2025:** I’m honored to have been nominated to present my research at the Computing Community Consortium (CCC)’s Computing Futures Symposium.
 * **November 2024:** I was invited to serve as a Panelist at NSF.
   
 * **September 2024:** I’m pleased to announce that our grant, for which I am the PI, 'Multidisciplinary Pathways to Cybersecurity Professionals,' has been awarded by NIST.
