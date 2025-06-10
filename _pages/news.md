@@ -3,7 +3,7 @@ permalink: /news/
 author_profile: true
 ---
 
-* **June 2025:** Glad to attend the NICE Conference &Expo, ad the NIST RAMPS workshop.
+* **June 2025:** Glad to attend the 2025 NICE Conference & Expo, ad the NIST RAMPS workshop.
 * **May 2025:** I’m honored to have been nominated to present my research at the Computing Community Consortium (CCC)’s Computing Futures Symposium.
 * **November 2024:** I was invited to serve as a Panelist at NSF.
   
